@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "wandererjoins",
-		"price": 2000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -412,7 +412,7 @@
 	},
 	{
 		"abr": "bouldermasshit",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
